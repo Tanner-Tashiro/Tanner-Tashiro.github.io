@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/DatabaseImage.png
+image: img/DatabaseLogo.png
 title: "Database Project"
 date: 2025
 published: true
@@ -10,12 +10,6 @@ labels:
   - C++
 summary: "In the Fall 2025 semester, I made a database in C and C++ for my ICS 212 class."
 ---
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 This project implements a C++ command-line Bank Database Application that allows users to manage customer records through an interactive text-based interface. The program serves as the user interface layer and works in conjunction with a linked list class to store, retrieve, and alter bank account records. The application supports adding new records, printing all existing records, finding records by account number, and deleting records by account number. 
 
