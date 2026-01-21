@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/blender-logo-square.png
 title: "Blender Experience"
 date: 2023
 published: true
