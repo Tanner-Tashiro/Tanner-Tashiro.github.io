@@ -21,7 +21,7 @@ This project implements a C++ command-line Bank Database Application that allows
 
 This project was completed individually, and I was able to gain practical experience in structured software development using C++. The project reinforced the importance of validating user input, handling a variety of cases, and using debugging tools effectively. Additionally, I developed better habits for writing clear documentation and organizing code in a way that supports future extensions and debugging, which are essential skills in collaborative software development environments.
   
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code that illustrates how we read user input and execute actions:
 
 ```cpp
 while (running)
