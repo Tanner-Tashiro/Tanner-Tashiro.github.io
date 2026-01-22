@@ -10,6 +10,11 @@ labels:
   - Blender
 summary: "During a summer break, I wanted to learn the basics on 3D modeling and how to use Blender."
 ---
+<div class="text-center p-4">
+  <img width="200px" src="../img/PolygonRunway - Pokeball.png" class="img-thumbnail" >
+  <img width="200px" src="../img/SittingDuck (1).png" class="img-thumbnail" >
+  <img width="200px" src="../img/Terrablade.png" class="img-thumbnail" >
+</div>
 
 I undertook a self-directed project to learn Blender, a professional 3D modeling and animation software, with the goal of creating a 3D scene from scratch. The project involved designing and modeling 3D objects, applying textures, experimenting with lighting, and setting up camera angles. This project allowed me to explore both the technical and artistic sides of 3D content creation. I followed various YouTube tutorials to gain some practice in using Blender.
 
