@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/DatabaseLogo.png
+image: img/C++_Logo.png
 title: "Database Project"
 date: 2025
 published: true
