@@ -11,8 +11,8 @@ labels:
 summary: "During a summer break, I wanted to learn the basics on 3D modeling and how to use Blender."
 ---
 <div class="text-center p-4">
-  <img width="200px" src="../img/PolygonRunway - Pokeball.png" class="img-thumbnail" >
   <img width="200px" src="../img/SittingDuck (1).png" class="img-thumbnail" >
+  <img width="200px" src="../img/PolygonRunway - Pokeball.png" class="img-thumbnail" >
   <img width="200px" src="../img/Terrablade.png" class="img-thumbnail" >
 </div>
 
