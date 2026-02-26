@@ -15,9 +15,9 @@ When I first started learning UI development, I thought that writing HTML seemed
 ## What and Why use UI Framework
 At first glance, UI frameworks can feel complicated. They introduce new classes, conventions, and sometimes, a verbose way of doing things that raw HTML could accomplish. However, frameworks can:
 
-* Consistency **: Pre-designed components that ensure page looks polished
-* Responsive Design **: Modern websites must adapt to screens of all sizes. Bootstrap’s grid system allows for automatic adjustment to different view sizes.
-* Time Efficiency **: Using a framework reduces the time spent debugging layout issues or inconsistencies. For a professional environment, this can mean faster development and fewer errors.
+* Consistency: Pre-designed components that ensure page looks polished
+* Responsive Design: Modern websites must adapt to screens of all sizes. Bootstrap’s grid system allows for automatic adjustment to different view sizes.
+* Time Efficiency: Using a framework reduces the time spent debugging layout issues or inconsistencies. For a professional environment, this can mean faster development and fewer errors.
 
 ## My Experience with Bootstrap 5
 Initially, it was frustrating to learn the class conventions and grid system. There are so many things that would take long to memorize, so having to find what I wanted to do in the documentation was a bit tedious. But once I got the hang of it, I realized the payoff. I could create a responsive, consistent page in a fraction of the time it would have taken with only raw HTML. 
