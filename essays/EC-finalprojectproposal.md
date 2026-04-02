@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Final Project Proposal"
-date: 2026-03-25
+date: 2026-04-01
 labels:
   - Software Engineering
   - Nextjs
@@ -31,6 +31,12 @@ The goal of this site is to help students make personalize their account to dete
 **Admins**:
 * Moderate user-submitted content
 * Edit or remove locations
+
+## Names of the proposers
+* Chloe Whitaker
+* Jonell Elizabeth Udasco
+* Tanner Tashiro
+* Isabella Mow
 
 ## Mockup page ideas
 Some possible mockup pages include:
