@@ -47,21 +47,24 @@ Some of my specific contributions included:
 I also collaborated with my teammates using GitHub for any issues that may show up in main. Working in a shared repository environment helped us organize development tasks, review each other’s work, and avoid conflicts when multiple people were contributing simultaneously.
 
 ### Landing Page
-The landing page is presented to users when they visit the top-level URL to the site.
-![](/img/landing-page.png)
+The landing page is presented to users when they visit the top-level URL of the site.
+
+<img src="/img/landing-page.png" width="700">
 
 ### Listing Page
-Lets you see all the created spaces from the add space form.
-![](/img/listing-page.png)
+Displays all created study spaces from the Add Space form.
+
+<img src="/img/listing-page.png" width="700">
 
 ### Add Space Form
-This is the form to add a space with name, image, quiet levels, capacity, etc.
-You can also add amenity tags to your spaces. 
-![](/img/add-space.png)
+This form allows users to add a study space with information such as the name, image, quiet level, capacity, and amenities.
+
+<img src="/img/add-space.png" width="700">
 
 ### Study Group Page
-Shows all the availiable study groups with filters to see groups depending on its availability.
-![](/img/study-group-page.png)
+Displays all available study groups and includes filters to sort groups based on availability.
+
+<img src="/img/study-group-page.png" width="700">
 
 ## Challenges and Lessons Learned
 
