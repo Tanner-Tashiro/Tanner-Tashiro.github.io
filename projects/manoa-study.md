@@ -49,22 +49,22 @@ I also collaborated with my teammates using GitHub for any issues that may show 
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL of the site.
 
-<img src="/img/landing-page.png" width="700">
+<img src="/img/landing-page.png" width="900">
 
 ### Listing Page
 Displays all created study spaces from the Add Space form.
 
-<img src="/img/listing-page.png" width="700">
+<img src="/img/listing-page.png" width="900">
 
 ### Add Space Form
 This form allows users to add a study space with information such as the name, image, quiet level, capacity, and amenities.
 
-<img src="/img/add-space.png" width="700">
+<img src="/img/add-space.png" width="900">
 
 ### Study Group Page
 Displays all available study groups and includes filters to sort groups based on availability.
 
-<img src="/img/study-group-page.png" width="700">
+<img src="/img/study-group-page.png" width="900">
 
 ## Challenges and Lessons Learned
 
