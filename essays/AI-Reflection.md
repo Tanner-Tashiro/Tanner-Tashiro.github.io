@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Using AI: The Good and Bad"
-date: 2026-05-03
+date: 2026-05-11
 published: true
 labels:
   - AI
