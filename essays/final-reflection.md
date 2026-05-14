@@ -30,6 +30,6 @@ A design pattern is a general, reusable solution to a common problem in software
 
 What makes design patterns valuable beyond web applications is that they represent transferable thinking. Instead of solving the same problem from scratch every time, developers can recognize patterns and apply proven solutions. For instance, the idea of separating concerns; keeping different parts of a system responsible for different tasks, can be applied in desktop applications, game development, or even organizational workflows. In a non-software context, similar “pattern thinking” appears when teams standardize how they handle recurring problems, such as approval processes or communication structures. Learning design patterns has helped me think more in terms of structure and long-term maintainability rather than just immediate functionality.
 
-Conclusion
+## Conclusion
 
 Overall, this course taught me that software engineering is more about a set of principles for building and maintaining complex systems. Agile project management (especially Issue-Driven Project Management) provides a way to organize work and adapt to change. Configuration management ensures that changes are controlled and collaboration is possible. Design patterns encourage reusable, structured solutions to common problems. Together, these ideas apply far beyond web development and can be used in many kinds of projects where people need to build something complex, coordinate effectively, and adapt over time.
